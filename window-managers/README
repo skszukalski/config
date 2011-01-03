@@ -1,0 +1,8 @@
+Various Window Manager Configuration Files
+------------------------------------------
+
+./awesome       -- Awesome 3 WM Configuration
+Copy the content of this directory to ${HOME}/.config/awesome
+
+./fvwm          -- FVWM 2 WM Configuration
+Copy the content of this directory to ${HOME}/.fvwm
